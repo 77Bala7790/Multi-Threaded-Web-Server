@@ -33,7 +33,7 @@ MLFB -> type of scheduler, in this case it's Multi Level queue with feedback. Ch
 64 -> No of threads to be handled simultaneously
 9999999 -> size of cache in bytes.
 
-# Format of the request to the server
+## Format of the request to the server
 The request is in the format: 
   * GET filename HTTP/1.1
 
