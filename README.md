@@ -29,8 +29,11 @@ or
   * ./sws 8080 MLFB 64 9999999
  
 8080 -> port to run the server on. It's the default too.
+
 MLFB -> type of scheduler, in this case it's Multi Level queue with feedback. Chose any from above. Their short forms are written after them.
+
 64 -> No of threads to be handled simultaneously
+
 9999999 -> size of cache in bytes.
 
 ## Format of the request to the server
