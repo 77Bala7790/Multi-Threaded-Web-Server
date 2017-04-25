@@ -40,3 +40,12 @@ The request is in the format:
 For example:
   * GET /abc.txt HTTP/1.1
 
+## Testing the server
+You could simply use telnet to do the job. 
+Here are the screenshots for both telnet and server session.
+
+
+![Alt Text](https://drive.google.com/file/d/0B2HM2y2FpK7hZm4zWV9vdkRJUU0/view?usp=sharing)
+![Alt Text](https://drive.google.com/open?id=0B2HM2y2FpK7hMjBBMDFLR3hkcXc) 
+
+
