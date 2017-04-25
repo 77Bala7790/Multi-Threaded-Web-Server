@@ -35,8 +35,8 @@ MLFB -> type of scheduler, in this case it's Multi Level queue with feedback. Ch
 
 ## Format of the request to the server
 The request is in the format: 
-  * GET filename HTTP/1.1
+  * GET /filename HTTP/1.1
 
 For example:
-  * GET abc.txt HTTP/1.1
+  * GET /abc.txt HTTP/1.1
 
