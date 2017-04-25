@@ -46,6 +46,6 @@ Here are the screenshots for both telnet and server session.
 
 
 ![Alt Text](https://drive.google.com/file/d/0B2HM2y2FpK7hZm4zWV9vdkRJUU0/view?usp=sharing)
-![Alt Text](https://drive.google.com/open?id=0B2HM2y2FpK7hMjBBMDFLR3hkcXc) 
+![Alt Text](https://drive.google.com/file/d/0B2HM2y2FpK7hMjBBMDFLR3hkcXc/view) 
 
 
