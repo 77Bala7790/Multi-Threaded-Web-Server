@@ -17,14 +17,17 @@ Any basic c compiler. GCC is preferred.
 The makefile has all the required commands.
 Run the following command in the directory.
   * make all
+
 The above command will compile the whole program.
 
 To run it just type :
 either 
   * ./sws
+
 will start the server with default values.
 or 
   * ./sws 8080 MLFB 64 9999999
+ 
 8080 -> port to run the server on. It's the default too.
 MLFB -> type of scheduler, in this case it's Multi Level queue with feedback. Chose any from above. Their short forms are written after them.
 64 -> No of threads to be handled simultaneously
@@ -33,6 +36,7 @@ MLFB -> type of scheduler, in this case it's Multi Level queue with feedback. Ch
 #Format of the request to the server
 The request is in the format: 
   * GET filename HTTP/1.1
-Eg
+
+For example:
   * GET abc.txt HTTP/1.1
 
