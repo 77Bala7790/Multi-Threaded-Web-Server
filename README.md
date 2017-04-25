@@ -46,6 +46,7 @@ Here are the screenshots for both telnet and server session.
 
 
 
-![Alt Text](http://imgur.com/a/mpAYH) 
+![Alt Text](https://github.com/Yogesh19921/Multi-Threaded-Web-Server/blob/master/Screenshot%20from%202017-04-25%2016-17-03.png) 
+![Alt Text](https://github.com/Yogesh19921/Multi-Threaded-Web-Server/blob/master/Screenshot%20from%202017-04-25%2016-17-17.png)
 
 
